@@ -1,0 +1,9 @@
+.env
+.git
+bootstrap/cache/**
+docker
+strage/framework/cache/**
+strage/framework/sessions/**
+strage/framework/views/**
+strage/logs/**
+vendor
